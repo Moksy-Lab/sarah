@@ -48,11 +48,11 @@ Contact us
 
 ## Live site Preview 
 
-[philadelphia](https://moksy.com/templates/sarah/?project_id=21684)
+[sarah](https://moksy.com/templates/sarah/?project_id=21684)
 
 
 ## Github Preview 
-[philadelphia](https://moksy-lab.github.io/sarah/)
+[sarah](https://moksy-lab.github.io/sarah/)
 
 
 ## Like our project ? 
