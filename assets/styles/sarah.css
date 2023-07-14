@@ -74,4 +74,13 @@
 .footerf439c65adee997571{
     overflow: hidden;
 }
+.footerf439c65adee997571 .footer-wrap h3 {
+    color: #EA0000;
+}
+.footerf439c65adee997571 .footer-links li a {  
+    color: #000000;   
+}
+.footerf439c65adee997571 .footer-category li a {
+    color: #000000;   
+}
 /* #fanta(f439c65adee997571) #css ends */
