@@ -37,13 +37,13 @@ Contact us
 ## Image Preview
 
 
-[Desktop]<a href="https://example.com"><img src="https://i.ibb.co/JyfxVPc/1.png"></a>
+[Desktop]<a href="#"><img src="https://i.ibb.co/JyfxVPc/1.png"></a>
 
 
 [Mobile]
 
 
-<a href="https://example.com"><img src="https://i.ibb.co/52LGsqS/2.png"></a>
+<a href="#"><img src="https://i.ibb.co/52LGsqS/2.png"></a>
 
 
 ## Live site Preview 
