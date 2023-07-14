@@ -30,3 +30,26 @@
     }
 
     /* #qadir(q0c8d3826c0d518b0) #css ends  */
+
+    /* #pen(cb870d00581aabe8) #css starts  */
+    .productscb870d00581aabe8 .title {
+        color: #add8e6
+    }
+
+    .productscb870d00581aabe8 .btn-md {
+        color: #add8e6;
+        background: none;
+        border: 1px solid #add8e6
+    }
+
+    .productscb870d00581aabe8 .label-rating {
+        margin-right: 10px;
+        color: #333;
+        display: inline-block;
+        vertical-align: middle
+    }
+
+    .productscb870d00581aabe8 .price-new {
+        color: #ff914f
+    }
+    /* #pen(cb870d00581aabe8) #css ends  */
