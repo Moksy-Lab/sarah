@@ -57,9 +57,11 @@
         background-color:#ff914f;
         border-radius: 12px;
         color: #E8F7F7;
-        padding-right: 0px;
-        padding-left: 0px;
+        padding: 6px 12px;
         font-weight: bold
+    }
+    .aboute50d5193e4b9f737 .searchBtn:hover{      
+        color: #add8e6      
     }
 @media (max-width: 767px) {
     .aboute50d5193e4b9f737 .aboutIMG{

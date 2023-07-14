@@ -195,7 +195,8 @@
         background-color:#4A4CC7;
         border-radius: 10px;
         color: white;
-        padding: 6px 12px;
+        padding-right: 30px;
+        padding-left: 30px;
         font-weight: bold
     }
 @media (max-width: 767px) {
