@@ -49,23 +49,13 @@
 
     /* #agun(e50d5193e4b9f737) #css starts  */
 .aboute50d5193e4b9f737 li {
-            list-style: none;
-            padding: 10px 30px;
-            background-image: url("https://i.ibb.co/v3cSthp/check-304167-1280.png");
-            background-repeat: no-repeat;
-            background-position: left center;
-            background-size: 20px         
+            background-image: url("https://i.ibb.co/v3cSthp/check-304167-1280.png")
         }
-        .aboute50d5193e4b9f737 .margin{
-    margin-left: -30px;
-    font-weight: bold
-}
+
 .aboute50d5193e4b9f737 .searchBtn{
-        background-color:#4A4CC7;
-        border-radius: 10px;
-        color: white;
-        padding-right: 30px;
-        padding-left: 30px;
+        background-color:#ff914f;
+        border-radius: 12px;
+        color: #add8e6;
         font-weight: bold
     }
 @media (max-width: 767px) {
