@@ -120,3 +120,40 @@
 
 /* #foring(foringftg943om72o) #css starts */
 /*****foring*****/
+
+/*****cawn*****/
+    /* #cawn(calltoactioncalnt4q93pend) #css starts  */
+    .calltoactioncalnt4q93pend .btn-primary{   
+        color: #1A2421;
+        background-color: #35CD86;
+        border-color: #35CD86;
+        font-weight: bold;
+        border-radius: 25px
+     }
+    /* #cawn(calltoactioncalnt4q93pend) #css ends  */
+/*****cawn*****/
+
+/*****foot*****/ 
+/* #foot(footftkxsoham8f) #css starts */
+.footftkxsoham8f h3{    
+    margin-left: 15px;
+    color: #6A41ED
+}
+.footftkxsoham8f h3 .social{
+    margin-left: 5px
+}
+.footftkxsoham8f .headingT{
+    margin-left: -4px
+}
+.footftkxsoham8f .nav .nav-link{
+    color: #050D13
+}
+.footftkxsoham8f .nav-link:focus, 
+.footftkxsoham8f .nav-link:hover {
+    font-weight: bold;
+}
+.footftkxsoham8f .fab{
+    color: #050D13
+}
+/* #foot(footftkxsoham8f) #css ends */
+/*****foot*****/
