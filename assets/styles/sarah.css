@@ -12,12 +12,19 @@
 /*****ceborah*****/
     /* #ceborah(calltoactioncakmky9mzzs) #css starts  */
     .calltoactioncakmky9mzzs .btn-dark {
-        color: #1A2421;
-        background-color: #35CD86;
-        border-color: #35CD86;
-        font-weight: bold;
-        border-radius: 25px
+    color: #fff;
+    background-color: #35CD86;
+    border-color: #35CD86;
+    font-weight: bold;
+    border-radius: 2px;
+    padding: 10px 20px 10px 20px
     }
+    .calltoactioncakmky9mzzs .btn-dark:hover,
+    .calltoactioncakmky9mzzs .btn-dark:not(:disabled):not(.disabled):active {
+        color: #fff;
+        background-color: #06BBCC;
+        border-color: #06BBCC
+        }
     /* #ceborah(calltoactioncakmky9mzzs) #css ends  */
 /*****ceborah*****/
 
