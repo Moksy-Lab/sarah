@@ -11,6 +11,13 @@
 
 /*****ceborah*****/
     /* #ceborah(calltoactioncakmky9mzzs) #css starts  */
+    .calltoactioncakmky9mzzs .fdb-block {
+        padding: 5.5rem 0
+    }
+    .calltoactioncakmky9mzzs .fdb-block img + h1 {
+        margin-top: 2.5rem;
+        font-size: 2.75rem
+    }
     .calltoactioncakmky9mzzs .btn-dark {
     color: #fff;
     background-color: #35CD86;
@@ -19,43 +26,67 @@
     border-radius: 2px;
     padding: 10px 20px 10px 20px
     }
+    .calltoactioncakmky9mzzs .lead {
+        font-size: 1.5rem
+        }
     .calltoactioncakmky9mzzs .btn-dark:hover,
     .calltoactioncakmky9mzzs .btn-dark:not(:disabled):not(.disabled):active {
         color: #fff;
-        background-color: #06BBCC;
-        border-color: #06BBCC
+        background-color: #6A41ED;
+        border-color: #6A41ED
+        }
+        .calltoactioncakmky9mzzs .mt-5{
+            margin-top: 1.5rem!important;
         }
     /* #ceborah(calltoactioncakmky9mzzs) #css ends  */
 /*****ceborah*****/
 
 /*****crawler*****/
     /* #crawler(calltoactioncalnt4q93pe) #css starts  */
-    .calltoactioncalnt4q93pe .btn-primary {
-        color: #1A2421;
-        background-color: #35CD86;
-        border-color: #35CD86;
-        font-weight: bold;
-        border-radius: 25px
+    .calltoactioncalnt4q93pe .fdb-block {
+        padding: 5.5rem 0
     }
+    .calltoactioncalnt4q93pe h1 {
+        font-size: 2rem
+    }
+    .calltoactioncalnt4q93pe .lead {
+        font-size: 1.25rem;
+    }
+    .calltoactioncalnt4q93pe .btn-primary {
+        color: #fff;
+    background-color: #35CD86;
+    border-color: #35CD86;
+    font-weight: bold;
+    border-radius: 2px;
+    padding: 10px 20px 10px 20px
+    }
+    .calltoactioncalnt4q93pe .btn-primary:hover,
+    .calltoactioncalnt4q93pe .btn-primary:not(:disabled):not(.disabled):active {
+        color: #fff;
+        background-color: #6A41ED;
+        border-color: #6A41ED
+        }
     /* #crawler(calltoactioncalnt4q93pe) #css ends  */
 /*****crawler*****/
 
 /*****cash*****/
     /* #cash(c1486b52e923e265f) #css starts  */
     .counterc1486b52e923e265f .container{
-        padding: 7.5rem 0
+        padding: 5.5rem 0
     }
     .counterc1486b52e923e265f .BG{
         background-color:white
     }
     .counterc1486b52e923e265f .fa{
         margin-top: 10px;
-        font-size: 44px
+        font-size: 2.75rem;
+        color: #35CD86
     }
     .counterc1486b52e923e265f h2 {
-        font-size: 32px;
-        margin-top: 8px;
-        color: #6A41ED
+        font-size: 2rem;
+        margin-top: 1.5rem;
+        font-weight: 600;
+        color: #1C1D38
     }
     /* #cash(c1486b52e923e265f) #css ends  */
 /*****cash*****/
