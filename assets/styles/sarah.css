@@ -94,10 +94,13 @@
 /*****caavani*****/
     /* #caavani(caavaniU3KNCppkwa5tDgL) #css starts  */
     .caavaniU3KNCppkwa5tDgL .fdb-block{
-        padding: 7.5rem 0
+        padding: 5.5rem 0
+    }
+    .caavaniU3KNCppkwa5tDgL h2{
+        font-size: 2rem
     }
     .caavaniU3KNCppkwa5tDgL .lead{
-        font-size: 22.4px
+        font-size: 1.25rem
     }
     .caavaniU3KNCppkwa5tDgL a{
         font-size: 16px;
@@ -113,7 +116,7 @@
 /*****wow*****/
     /* #wow(w8b69b68110aa8e40) #css starts  */
     .workw8b69b68110aa8e40 .container{
-        padding: 7.5rem 0
+        padding: 5.5rem 0
     }
     .workw8b69b68110aa8e40 .badge{
        background-color: #F6FFF2;
@@ -130,14 +133,25 @@
         background:#fff !important ;
         color: #1A2421
         }
-
+        .workw8b69b68110aa8e40 .lead {
+            font-size: 2rem;
+        }
         /* #wow(w8b69b68110aa8e40) #css ends  */
 /*****wow*****/
 
 /*****taliyah*****/ 
 /* #taliyah(teamtm4kyeslxmy) #css starts */
+.teamtm4kyeslxmy .fdb-block {
+    padding: 5.5rem 0
+}
+.teamtm4kyeslxmy h1{
+    font-size: 2rem
+}
+.teamtm4kyeslxmy .lead {
+    font-size: 1.25rem
+}
     .teamtm4kyeslxmy h4 { 
-        color: #6A41ED
+        color: #1C1D38
         }
 /* #taliyah(teamtm4kyeslxmy) #css ends */
 /*****taliyah*****/
@@ -145,7 +159,7 @@
 /*****taylor*****/
     /* #taylor(testimonialcohi0ajeo7e) #css starts  */
     .testimonialcohi0ajeo7e  strong{
-        color: #6A41ED
+        color: #1C1D38
        }
     /* #taylor(testimonialcohi0ajeo7e) #css ends  */
 /*****taylor*****/
@@ -153,7 +167,7 @@
 /*****foring*****/
 /* #foring(foringftg943om72o) #css starts */
 .foringftg943om72o h3{
-    color: #6A41ED
+    color: #1C1D38
  }
 
 /* #foring(foringftg943om72o) #css starts */
